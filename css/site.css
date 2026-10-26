@@ -18,3 +18,7 @@ main img { display: block; margin: var(--space-4) 0; }
 main button { min-height: 44px; padding: var(--space-2) var(--space-4); background: var(--ink); color: var(--bg); border: 2px solid var(--ink); border-radius: var(--radius); font: inherit; font-family: var(--font-label); font-weight: 700; cursor: pointer; }
 main button:hover { background: var(--accent-dark); border-color: var(--accent-dark); color: var(--on-accent); }
 #quiz-result { min-height: 1.6em; font-weight: 700; }
+
+@media (prefers-color-scheme: dark) {
+  main button:hover { background: var(--accent); border-color: var(--accent); }
+}
