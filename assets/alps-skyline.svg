@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-labelledby="t"><title id="t">Alpine peaks above a lakeside town with a church spire</title>
+<rect width="640" height="260" fill="#ebe2cc"/>
+<path d="M0 170 L100 80 L150 120 L240 40 L330 130 L420 70 L520 140 L580 100 L640 150 V260 H0Z" fill="#28445f"/>
+<path d="M240 40 L214 75 L232 70 L242 82 L255 68 L268 76Z M100 80 L84 100 L98 96 L108 104Z M420 70 L400 96 L416 92 L426 100Z" fill="#f7f1e3"/>
+<path d="M0 190 H640 V260 H0Z" fill="#1c1a17" opacity=".12"/>
+<g fill="#4d473d"><rect x="90" y="185" width="50" height="35"/><rect x="150" y="195" width="40" height="25"/><rect x="380" y="190" width="60" height="30"/><rect x="450" y="198" width="40" height="22"/></g>
+<path d="M90 185 L115 165 L140 185Z M150 195 L170 180 L190 195Z M380 190 L410 170 L440 190Z" fill="#b3141b"/>
+<rect x="290" y="150" width="26" height="70" fill="#4d473d"/><path d="M290 150 L303 100 L316 150Z" fill="#b3141b"/>
+<path d="M0 235 Q160 225 320 235 T640 232" stroke="#f7f1e3" stroke-width="3" fill="none" opacity=".7"/>
+</svg>

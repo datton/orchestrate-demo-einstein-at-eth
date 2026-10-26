@@ -1,3 +1,57 @@
 :root {
-  /* Designer: colours, type and spacing tokens */
+  /* Palette: aged paper, ink, Swiss red, slate blue, brass. An early-1900s academic feel.
+     Contrast: --ink on --bg 14:1; --on-accent on --accent 6.9:1; --muted on --bg 7.3:1; --slate on --bg 8.6:1 */
+  --bg: #f7f1e3;
+  --surface: #ebe2cc;
+  --ink: #1c1a17;
+  --muted: #4d473d;
+  --accent: #b3141b;
+  --accent-dark: #86090f;
+  --on-accent: #ffffff;
+  --slate: #28445f;
+  --on-slate: #ffffff;
+  --brass: #a67c1f;
+  --border: #c9bd9f;
+  --focus: #0050d8;
+
+  /* Type: system fonts only. Serif for headings and body, sans for labels. */
+  --font-display: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif;
+  --font-body: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  --font-label: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --text-sm: 0.875rem;
+  --text-base: 1.125rem;
+  --text-lg: 1.3rem;
+  --text-xl: 1.8rem;
+  --text-2xl: clamp(2rem, 5vw, 3rem);
+  --text-3xl: clamp(2.5rem, 7vw, 4.25rem);
+  --leading: 1.7;
+  --leading-tight: 1.15;
+  --measure: 66ch;
+
+  /* Spacing and shape: square corners, thin rules, like a printed page */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2.5rem;
+  --space-6: 4rem;
+  --radius: 0;
+  --rule: 1px solid var(--border);
+  --max-width: 64rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17150f;
+    --surface: #24211a;
+    --ink: #f3ecd9;
+    --muted: #cfc5ac;
+    --accent: #ff6b6f;
+    --on-accent: #17150f;
+    --slate: #8fb3d6;
+    --on-slate: #17150f;
+    --brass: #d9b04a;
+    --border: #4a4435;
+    --focus: #7fb0ff;
+  }
 }

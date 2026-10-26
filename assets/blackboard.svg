@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-labelledby="t"><title id="t">Blackboard with the equation E equals m c squared and a light-cone sketch</title>
+<rect width="640" height="300" fill="#6b4a2b"/><rect x="14" y="14" width="612" height="272" fill="#233028"/>
+<text x="60" y="150" font-family="Georgia,serif" font-size="68" fill="#f3ecd9" font-style="italic">E = mc²</text>
+<g stroke="#f3ecd9" stroke-width="3" fill="none" stroke-linecap="round"><path d="M470 220 L420 90 M470 220 L520 90"/><ellipse cx="470" cy="90" rx="50" ry="12"/><path d="M470 220 V60" stroke-dasharray="6 8"/></g>
+<path d="M60 200 H330" stroke="#f3ecd9" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
+<rect x="30" y="274" width="60" height="8" fill="#e8dfc8"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-labelledby="t"><title id="t">Diagram of two axes with a light line and a curved path</title>
+<rect width="320" height="240" fill="#f7f1e3" stroke="#c9bd9f"/>
+<g stroke="#1c1a17" stroke-width="2" fill="none"><path d="M40 200 H290 M40 200 V30"/><path d="M290 200 l-8 -5 v10z M40 30 l-5 8 h10z" fill="#1c1a17"/></g>
+<path d="M40 200 L250 40" stroke="#b3141b" stroke-width="3" stroke-dasharray="8 6"/>
+<path d="M40 200 C100 190 150 150 170 60" stroke="#28445f" stroke-width="4" fill="none"/>
+<circle cx="170" cy="60" r="6" fill="#a67c1f"/>
+<g stroke="#c9bd9f" stroke-width="1"><path d="M40 160 H290 M40 120 H290 M40 80 H290 M100 30 V200 M160 30 V200 M220 30 V200"/></g>
+</svg>
